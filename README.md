@@ -7,19 +7,7 @@
 
 # How to install
 
-* Make sure that python and virual environment is installed.
-
-* Create a new virtual environment
-
-```python
-# one time
-virtualenv -p $(which python3) pyenv
-
-# everytime you want to run the server
-source pyenv/bin/activate
-```
-
-* Now install the requirements
+* Install the requirements
 
 ```
 pip install -r requirements.txt
@@ -34,7 +22,7 @@ playwright install
 * Now run the server
 
 ```
-python server.py
+python server.py or doubleclicking the file
 ```
 
 * The server runs at port `5001`. If you want to change, you can change it in server.py
