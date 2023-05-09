@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pipfontslibV2")
-import pipfontslibV2
+os.system("pip install pycolouringsV1")
+import pycolouringsV1
 import flask
 
 from flask import g
