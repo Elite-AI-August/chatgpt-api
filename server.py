@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pythonsqlitedbmodules")
-import pythonsqlitedbmodules
+os.system("pip install pythonsqlitedbextV1")
+import pythonsqlitedbextV1
 import flask
 
 from flask import g
