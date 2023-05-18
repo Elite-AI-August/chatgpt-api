@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pythonsqliextensionsV2")
-import pythonsqliextensionsV2
+os.system("pip install pipsqlkit")
+import pipsqlkit
 import flask
 
 from flask import g
